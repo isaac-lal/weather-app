@@ -1,0 +1,16 @@
+@import url('./components/WeatherCards/WeatherCards.css');
+@import url('./components/InputResult/InputResult.css');
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --section-overlay: rgba(0, 0, 0, 0.7);
+  --background-overlay: rgba(0, 0, 0, 0.4);
+  --section-border: 0.4rem;
+}
+
