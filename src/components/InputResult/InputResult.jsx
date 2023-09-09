@@ -19,7 +19,7 @@ const InputResult = () => {
       // dynamic background
       const threshold = units === 'metric' ? 20 : 60;
 
-      if (data.temp <= threshold) setBg(cloudy_IMG);
+      if (data.temp <= threshold) setBg(snowy_IMG);
       else setBg(sunny_IMG);
     };
 
