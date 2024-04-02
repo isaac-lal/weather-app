@@ -1,4 +1,4 @@
-# minimal-weather-app
+# weather-app
 
 ## Scaffolding Your First Vite Project
 
